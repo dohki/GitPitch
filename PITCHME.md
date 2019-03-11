@@ -1,6 +1,3 @@
-# Test
-![](assets/img/modern_software_development.gif)
-
 # Dohyeok Kim
 M.S. @SoftSec.GSIS.KAIST
 
@@ -30,6 +27,10 @@ I've worked on
 - VirtualKD
 - WinDbg extensions (e.g. !exploitable, pykd)
 - z3
+
+@snap[east span-50]
+![](assets/img/modern_software_development.gif)
+@snapend
 
 ---
 
