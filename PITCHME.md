@@ -5,7 +5,7 @@ M.S. @SoftSec.GSIS.KAIST
 
 ## Profile
 - B.S. @CSE.POSTECH
-- Vuln Analysis Course @BoB.KITRI
+- Vuln.Anal.6th @BoB.KITRI
 
 ---
 
