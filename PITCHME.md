@@ -39,7 +39,7 @@ I've worked on
 
 ---
 
-# Other Tech Stacks
+# Tech Stacks
 I've studied
 
 ---
