@@ -50,6 +50,7 @@ I've studied
 ## Web (Security)
 - PHP
 - DB (e.g. MySQL, SQLite)
+- JavaScript
 
 ---
 
