@@ -3,6 +3,12 @@ M.S. @SoftSec.GSIS.KAIST
 
 ---
 
+## Profile
+- B.S. @CSE.POSTECH
+- Vuln Analysis Course @BoB.KITRI
+
+---
+
 # Projects
 I've worked on
 
