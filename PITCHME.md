@@ -9,13 +9,6 @@ I've worked on
 ---
 
 ## Cryptocurrency Trade Bot
-- Chrome DevTools
-- Python
-- Slack API
-
----
-
-## Cryptocurrency Trade Bot
 - Python
 - Chrome DevTools
 - Slack API
@@ -31,7 +24,7 @@ I've worked on
 
 ---
 
-## Distributed System for Testing Javascript Engine CVEs
+### Distributed System for Testing Javascript Engine CVEs
 - Python
 - Bug Tracking System (e.g. Monorail and Bugzilla)
 - Autoconf
