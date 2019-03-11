@@ -38,13 +38,6 @@ I've worked on
 
 ---
 
-## Others
-- General Web (Security) Concepts
-- PHP
-- DB (e.g. MySQL, SQLite)
-
----
-
 # Tech Stacks
 I've studied
 
