@@ -1,5 +1,5 @@
-# Dohyeok Kim
-@SoftSec.GSIS.KAIST
+## Dohyeok Kim
+M.S. @SoftSec.GSIS.KAIST
 
 ---
 
