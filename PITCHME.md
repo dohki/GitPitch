@@ -1,3 +1,6 @@
+# Test
+![](assets/img/modern_software_development.gif)
+
 # Dohyeok Kim
 M.S. @SoftSec.GSIS.KAIST
 
@@ -5,7 +8,7 @@ M.S. @SoftSec.GSIS.KAIST
 
 ## Profile
 - B.S. @CSE.POSTECH
-- Vuln.Anal.6th @BoB.KITRI
+- Vuln.Anal. 6th @BoB.KITRI
 
 ---
 
