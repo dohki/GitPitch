@@ -1,9 +1,9 @@
-## Dohyeok Kim
+# Dohyeok Kim
 M.S. @SoftSec.GSIS.KAIST
 
 ---
 
-## Projects
+# Projects
 I've worked on
 
 ---
@@ -19,16 +19,42 @@ I've worked on
 - Python
 - VMWare
 - VirtualKD
-- WinDbg extensions (e.g. !exploitable and pykd)
+- WinDbg extensions (e.g. !exploitable, pykd)
 - z3
 
 ---
 
 ### Distributed System for Testing Javascript Engine CVEs
 - Python
-- Bug Tracking System (e.g. Monorail and Bugzilla)
+- Bug Tracking System (e.g. Monorail, Bugzilla)
 - Autoconf
 - ASan
+
+---
+
+## Others
+- General Web (Security) Concepts
+- PHP
+- DB (e.g. MySQL, SQLite)
+
+---
+
+# Other Tech Stacks
+I've studied
+
+---
+
+## Web (Security)
+- PHP
+- DB (e.g. MySQL, SQLite)
+
+---
+
+## Functional Programming
+- OCaml
+- sml
+- Scala
+- F#
 
 ---
 
