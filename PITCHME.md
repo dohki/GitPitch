@@ -7,42 +7,36 @@ M.S. @SoftSec.GSIS.KAIST
 I've worked on
 
 ---
-@title[Customize Slide Layout]
 
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
+## Cryptocurrency Trade Bot
+- Chrome DevTools
+- Python
+- Slack API
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+---
 
----?color=#E58537
-@title[Add A Little Imagination]
+## Cryptocurrency Trade Bot
+- Python
+- Chrome DevTools
+- Slack API
 
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
+---
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+## IOCTL Fuzzer
+- Python
+- VMWare
+- VirtualKD
+- WinDbg extensions (e.g. !exploitable and pykd)
+- z3
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+---
 
----?image=assets/img/presenter.jpg
+## Distributed System for Testing Javascript Engine CVEs
+- Python
+- Bug Tracking System (e.g. Monorail and Bugzilla)
+- Autoconf
+- ASan
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+---
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+## Questions?
