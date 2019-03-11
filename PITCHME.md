@@ -3,9 +3,8 @@ M.S. @SoftSec.GSIS.KAIST
 
 ---
 
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
+## Projects
+I've worked on
 
 ---
 @title[Customize Slide Layout]
