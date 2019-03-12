@@ -34,7 +34,7 @@ I've worked on
 
 ---
 
-### Distributed System for Testing Javascript Engine CVEs
+### Distributed System for Testing Javascript Engine Crashes
 - Python
 - Bug Tracking System (e.g. Monorail, Bugzilla)
 - Autoconf
