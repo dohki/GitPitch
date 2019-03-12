@@ -62,4 +62,10 @@ I've studied
 
 ---
 
+## In a nutshell
+- Python-guy
+- ml-guy
+
+---
+
 # Questions?
